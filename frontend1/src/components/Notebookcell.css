@@ -1,0 +1,62 @@
+.notebook-cell {
+  width: 100%;
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 15px auto;
+  max-width: 1200px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.notebook-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.notebook-language-label {
+  font-weight: bold;
+  color: #333;
+  font-size: 16px;
+}
+
+.notebook-select {
+  margin-right: 10px;
+  padding: 4px 8px;
+  font-size: 14px;
+}
+
+.notebook-run-button {
+  background-color: #d4fdd4;
+  border: 1px solid #b3ebb3;
+  padding: 4px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.notebook-output {
+  background: #f5f5f5;
+  padding: 10px;
+  border-top: 1px solid #ddd;
+  margin-top: 10px;
+  font-size: 14px;
+  white-space: pre-wrap;
+  overflow-x: auto;
+}
+.monaco-editor .scrollbar.horizontal {
+  display: none !important;
+}
+.cell-wrapper {
+  background: #fff;
+  margin: 20px 0;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+.cell-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
