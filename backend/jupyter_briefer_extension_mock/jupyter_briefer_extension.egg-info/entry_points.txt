@@ -1,0 +1,2 @@
+[jupyter_server.extensions]
+jupyter_briefer_extension = jupyter_briefer_extension:_load_jupyter_server_extension

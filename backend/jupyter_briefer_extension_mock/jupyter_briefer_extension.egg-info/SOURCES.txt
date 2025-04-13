@@ -1,0 +1,9 @@
+setup.py
+jupyter_briefer_extension/__init__.py
+jupyter_briefer_extension/briefer_handler.py
+jupyter_briefer_extension.egg-info/PKG-INFO
+jupyter_briefer_extension.egg-info/SOURCES.txt
+jupyter_briefer_extension.egg-info/dependency_links.txt
+jupyter_briefer_extension.egg-info/entry_points.txt
+jupyter_briefer_extension.egg-info/requires.txt
+jupyter_briefer_extension.egg-info/top_level.txt
